@@ -22,6 +22,7 @@ List of free online programming/CS courses
 * [openculture](http://www.openculture.com/computer_science_free_courses) - openculture.com/computer_science_free_courses
 * [openhpi](https://openhpi.de/) - openhpi.de
 * [openuniversity](http://www.openuniversity.edu/courses/global) - openuniversity.edu/courses/global
+* [paqmind](http://paqmind.com/) – paqmind.com
 * [stanford online courses](http://online.stanford.edu/courses) - online.stanford.edu/courses
 * [udacity](https://www.udacity.com/) - udacity.com
 * [udemy](https://www.udemy.com/courses/) - udemy.com/courses

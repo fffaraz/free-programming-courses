@@ -32,6 +32,7 @@ List of free online programming/CS courses
 * [reddit - learnprogramming](http://www.reddit.com/r/learnprogramming/)
 * [reddit - /u/dhawal](http://www.reddit.com/user/dhawal)
 * [class-central Computer Science](https://www.class-central.com/subject/cs)
+* [EXLskills](https://exlskills.com/learn/courses) - Free & Open-source Programming Courses w/ Live Help
 
 ## Etc.
 

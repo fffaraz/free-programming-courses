@@ -55,6 +55,7 @@ List of free online programming/CS courses
 * [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
 * [chhantyal/influential-cs-books](https://github.com/chhantyal/influential-cs-books)
 * [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books)
+* [desik98/BestOnlineCoursesList](https://github.com/desik98/BestOnlineCoursesList)
 
 ## Persian / Farsi websites
 

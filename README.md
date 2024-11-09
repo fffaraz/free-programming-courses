@@ -68,4 +68,4 @@ List of free online programming/CS courses
 * [takhtesefid](http://takhtesefid.org/) - takhtesefid.org
 * [webyad](http://www.webyad.com/) - webyad.com
 * [ocw.sharif.edu](http://ocw.sharif.edu/) - ocw.sharif.edu
-
+* [https://avasam.ir) - avasam.ir
